@@ -1,4 +1,4 @@
-# DESIGN.md — Section 2 RAG Pipeline Architecture
+Section 2 RAG Pipeline Architecture
 
 This document explains the architecture and trade-off reasoning behind the legal/document RAG pipeline. Implementation lives in `section2_rag/`.
 
