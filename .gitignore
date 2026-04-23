@@ -25,3 +25,4 @@ logs/
 .cache/
 wandb/
 mlruns/
+section3_classifier/model/ 
