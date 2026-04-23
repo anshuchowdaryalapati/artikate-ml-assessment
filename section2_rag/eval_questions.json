@@ -1,0 +1,101 @@
+[
+    {
+        "question": "What rights do data subjects have under GDPR?",
+        "expected_document": "gdpr.pdf",
+        "expected_pages": [
+            12,
+            26,
+            81,
+            13,
+            11,
+            10
+        ]
+    },
+    {
+        "question": "What is the role of the Data Protection Officer under GDPR?",
+        "expected_document": "gdpr.pdf",
+        "expected_pages": [
+            55,
+            56,
+            57,
+            54
+        ]
+    },
+    {
+        "question": "What are the conditions for lawful processing of personal data?",
+        "expected_document": "gdpr.pdf",
+        "expected_pages": [
+            36,
+            37,
+            11,
+            38
+        ]
+    },
+    {
+        "question": "What obligations do data controllers have regarding breaches?",
+        "expected_document": "gdpr.pdf",
+        "expected_pages": [
+            52,
+            53,
+            15
+        ]
+    },
+    {
+        "question": "What penalties can be imposed for GDPR violations?",
+        "expected_document": "gdpr.pdf",
+        "expected_pages": [
+            82,
+            83,
+            84
+        ]
+    },
+    {
+        "question": "What is VisionLLM v2 and what architecture does it use?",
+        "expected_document": "vllm.pdf",
+        "expected_pages": [
+            1,
+            2,
+            4,
+            5
+        ]
+    },
+    {
+        "question": "What is the super-link technique in VisionLLM v2?",
+        "expected_document": "vllm.pdf",
+        "expected_pages": [
+            5,
+            6,
+            7,
+            4
+        ]
+    },
+    {
+        "question": "What datasets were used to train VisionLLM v2?",
+        "expected_document": "vllm.pdf",
+        "expected_pages": [
+            9,
+            10,
+            11
+        ]
+    },
+    {
+        "question": "What is the I-JEPA architecture and how does it learn representations?",
+        "expected_document": "jepa.pdf",
+        "expected_pages": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "question": "How does vector-less RAG differ from traditional RAG approaches?",
+        "expected_document": "vector_less_rag.pdf",
+        "expected_pages": [
+            1,
+            2,
+            3,
+            4
+        ]
+    }
+]
