@@ -8,6 +8,15 @@
 
 ---
 
+## 🎬 Live Walkthrough
+
+**Watch the 7-minute system demo:** https://www.loom.com/share/d87364db0162471ebc53a8eec5323efe
+
+Covers live RAG query, evaluation harness, refusal behavior, architecture rationale, and overview of Sections 1, 3, and 4.
+
+---
+
+
 ## At a Glance
 
 | # | Section | Deliverable | Headline Metric |
@@ -196,7 +205,7 @@ Mapped to the brief's page-10 checklist:
 - [x] Section 3 evaluator reports accuracy = 0.985, F1 = 0.985, confusion matrix
 - [x] Section 3 latency test passes — p99 = 20.5ms vs 500ms budget
 - [x] No API keys, .env, or credentials committed (.env is gitignored; .env.example is the template)
-- [ ] Loom walkthrough link — to be added before final submission
+- [x] Loom walkthrough : https://www.loom.com/share/d87364db0162471ebc53a8eec5323efe
 
 ---
 
